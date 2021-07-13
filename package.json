@@ -1,6 +1,6 @@
 {
   "name": "releasedrafter",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "This is a demo repository to checkout the release drafter action and how it works.",
   "main": "index.js",
   "scripts": {
